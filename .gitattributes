@@ -1,0 +1,3 @@
+# Prevent line-ending conversion on Blazor JS/WASM files (critical for integrity checks on GitHub Pages)
+*.js binary
+*.wasm binary
